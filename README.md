@@ -19,4 +19,4 @@ Welcome to **ELearningApp**, a modern Android application designed to simplify a
 
 ## Screenshots
 
-![ELearningApp Screenshot](Learning.png)
+![ELearningApp Screenshot](learning.png)
